@@ -1,7 +1,5 @@
-UC14-locales-nueva-estructura
+{{project_name}}
 ==============================
-
-CitizenLab
 
 Project Organization
 ------------
