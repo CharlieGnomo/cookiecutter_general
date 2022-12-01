@@ -1,4 +1,5 @@
 {
     "project_name": "sample",
-    "open_source_license": ["MIT", "BSD", "ISCL", "Apache Software License 2.0", "Not open source"]
+    "author_name": "Carlos",
+    "open_source_license": ["MIT", "BSD-3-Clause", "No license file"]
 }
